@@ -1,0 +1,272 @@
+.content1{
+  width: 80%;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cimg{
+  width: 40%;
+  height: 100%;
+}
+.frm{
+  width: 40%;
+  height: 100%;
+}
+.frm1 h1{
+    font-size: 35px;
+}
+.frm1 p{
+  font-size: 16px;
+}
+label{
+   font-size: 20px;
+   color:#030303;
+}
+input{
+   font-size: 18px;
+   width: 70%;
+   height: 47px;
+   border: none;
+   border-radius: 10px;
+   background-color: white;
+   margin-left: 1px;
+   padding: 5px;
+}
+.l1{
+  margin-top: 10px;
+}
+button{
+    width: 50%;
+    width: 70%;
+   height: 40px;
+   text-align: center;
+   background-color: #3164F4;
+   color: white;
+   border-radius: 10px;
+   font-size: 14px;
+   font-weight: 500;
+   margin-top: 10px;
+   border: none;
+}
+
+@media screen and (max-width:1260px){
+  .m1{
+    height: 900px;
+  }
+  
+  .cimg{
+    width: 50%;
+    height: 600px;
+    margin-top: 50px;
+  }
+  .frm{
+    width: 50%;
+    height: 700px;
+    margin-top: 100px;
+  }
+  .frm1 h1{
+      font-size: 35px;
+  }
+  .frm1 p{
+    font-size: 16px;
+  }
+  label{
+     font-size: 20px;
+     color:#030303;
+  }
+  input{
+     font-size: 18px;
+     width: 70%;
+     height: 47px;
+     border: none;
+     border-radius: 10px;
+     background-color: white;
+     margin-left: 1px;
+     padding: 5px;
+  }
+  .l1{
+    margin-top: 10px;
+  }
+  button{
+      width: 50%;
+      width: 70%;
+     height: 40px;
+     text-align: center;
+     background-color: #3164F4;
+     color: white;
+     border-radius: 10px;
+     font-size: 19px;
+     font-weight: 500;
+     margin-top: 10px;
+     border: none;
+  }
+  .btn{
+    font-size: 60px;
+  }
+}
+@media screen and (max-width:912px){
+  .m1{
+    height: 900px;
+  }
+  .cimg{
+    width: 50%;
+    height: 700px;
+  }
+  .frm{
+    width: 50%;
+    height: 700px;
+    margin-top: 100px;
+  }
+  .frm1 h1{
+      font-size: 35px;
+  }
+  .frm1 p{
+    font-size: 16px;
+  }
+  label{
+     font-size: 20px;
+     color:#030303;
+  }
+  input{
+     font-size: 18px;
+     width: 70%;
+     height: 47px;
+     border: none;
+     border-radius: 10px;
+     background-color: white;
+     margin-left: 1px;
+     padding: 5px;
+  }
+  .l1{
+    margin-top: 10px;
+  }
+  button{
+      width: 50%;
+      width: 70%;
+     height: 40px;
+     text-align: center;
+     background-color: #3164F4;
+     color: white;
+     border-radius: 10px;
+     font-size: 14px;
+     font-weight: 500;
+     margin-top: 10px;
+     border: none;
+  }
+  .btn{
+    font-size: 60px;
+  }
+}
+
+
+@media screen and (max-width:820px){
+  .m1{
+    height: 900px;
+  }
+  .cimg{
+    width: 50%;
+    height: 600px;
+    margin-top: 50px;
+  }
+  .frm{
+    width: 50%;
+    height: 700px;
+    margin-top: 100px;
+  }
+  .frm1 h1{
+      font-size: 35px;
+  }
+  .frm1 p{
+    font-size: 16px;
+  }
+  label{
+     font-size: 20px;
+     color:#030303;
+  }
+  input{
+     font-size: 18px;
+     width: 70%;
+     height: 47px;
+     border: none;
+     border-radius: 10px;
+     background-color: white;
+     margin-left: 1px;
+     padding: 5px;
+  }
+  .l1{
+    margin-top: 10px;
+  }
+  button{
+      width: 50%;
+      width: 70%;
+     height: 40px;
+     text-align: center;
+     background-color: #3164F4;
+     color: white;
+     border-radius: 10px;
+     font-size: 14px;
+     font-weight: 500;
+     margin-top: 10px;
+     border: none;
+  }
+  .btn{
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width:431px){
+  .content1{
+    width: 80%;
+    margin: 50px auto;
+    display: block;
+    justify-content: space-between;
+  }
+  
+  .cimg{
+    width: 90%;
+    height: 250px;
+  }
+  .frm{
+    width: 100%;
+    margin-left: 50px;
+  }
+  .frm1 h1{
+      font-size: 35px;
+  }
+  .frm1 p{
+    font-size: 16px;
+  }
+  label{
+     font-size: 20px;
+     color:#030303;
+  }
+  input{
+     font-size: 18px;
+     width: 70%;
+     height: 47px;
+     border: none;
+     border-radius: 10px;
+     background-color: white;
+     margin-left: 1px;
+     padding: 5px;
+  }
+  .l1{
+    margin-top: 10px;
+  }
+  button{
+      width: 50%;
+      width: 70%;
+     height: 40px;
+     text-align: center;
+     background-color: #3164F4;
+     color: white;
+     border-radius: 10px;
+     font-size: 14px;
+     font-weight: 500;
+     margin-top: 10px;
+     border: none;
+  }
+    
+}
+
